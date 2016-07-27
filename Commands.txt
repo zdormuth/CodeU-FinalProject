@@ -1,7 +1,0 @@
-git clone git@github.com:miguellane/codeU-FinalProject.git
-git clone git@github.com:miguellane/codeU-FinalProject.git codeU-FinalProjet/ZDormuth
-git clone git@github.com:miguellane/codeU-FinalProject.git codeU-FinalProjet/MLane
-git pull
-git add --all
-git commit -am "Sub Branch Test!"
-git push
